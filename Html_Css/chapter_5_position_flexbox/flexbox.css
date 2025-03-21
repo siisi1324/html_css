@@ -1,0 +1,12 @@
+.mother{
+    height: 100vh;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.children{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
